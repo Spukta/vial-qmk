@@ -1,3 +1,4 @@
+DYNAMIC_MACRO_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
 
 # Vial setup
